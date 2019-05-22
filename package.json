@@ -1,7 +1,9 @@
 {
   "name": "vscode-periwinkle",
   "displayName": "vscode-periwinkle",
-  "description": "",
+  "author": "William L <w-lindvall@outlook.com>",
+  "publisher": "shwilliam",
+  "description": "VS Code color theme based on fairyfloss",
   "version": "0.0.1",
   "license": "MIT",
   "engines": {
@@ -18,5 +20,13 @@
         "path": "./themes/periwinkle-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwilliam/vscode-periwinkle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shwilliam/vscode-periwinkle/issues"
+  },
+  "homepage": "https://github.com/shwilliam/vscode-periwinkle#readme"
 }
