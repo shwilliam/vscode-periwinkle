@@ -1,9 +1,8 @@
 {
-  // monokai
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#272822",
+				"background": "#5A5475",
 				"foreground": "#F8F8F2"
 			}
 		},
@@ -11,28 +10,28 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#75715E"
+				"foreground": "#FFEA00"
 			}
 		},
 		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#E6C000"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#C5A3FF"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#C5A3FF"
 			}
 		},
 		{
@@ -42,7 +41,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#C5A3FF"
 			}
 		},
 		{
@@ -72,7 +71,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#C2FFDF"
 			}
 		},
 		{
@@ -80,7 +79,7 @@
 			"scope": "entity.name.class",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#A6E22E"
+				"foreground": "#FFF352"
 			}
 		},
 		{
@@ -88,7 +87,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#A6E22E"
+				"foreground": "#FFF352"
 			}
 		},
 		{
@@ -96,7 +95,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#FFF352"
 			}
 		},
 		{
@@ -104,7 +103,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FD971F"
+				"foreground": "#FF857F"
 			}
 		},
 		{
@@ -120,7 +119,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#FFF352"
 			}
 		},
 		{
@@ -128,7 +127,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#C2FFDF"
 			}
 		},
 		{
@@ -136,7 +135,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#C2FFDF"
 			}
 		},
 		{
@@ -147,7 +146,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#C2FFDF"
 			}
 		},
 		{
@@ -176,12 +175,12 @@
 		}
 	],
 	"colors": {
-		"editor.background": "#272822",
+		"editor.background": "#5A5475",
 		"editorCursor.foreground": "#F8F8F0",
 		"editor.foreground": "#F8F8F2",
-		"editorWhitespace.foreground": "#3B3A32",
-		"editor.lineHighlightBackground": "#3E3D32",
-		"editor.selectionBackground": "#49483E"
+		"editorWhitespace.foreground": "#A8757B",
+		"editor.lineHighlightBackground": "#716799",
+		"editor.selectionBackground": "#716799"
 	},
   "name": "periwinkle"
 }

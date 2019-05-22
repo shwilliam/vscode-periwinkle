@@ -1,5 +1,7 @@
 # periwinkle
 
+> VS Code color theme based on [fairyfloss](https://github.com/sailorhg/fairyfloss)
+
 ## development
 
 * Press `F5` to open a new window with the extension loaded
