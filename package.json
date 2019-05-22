@@ -1,0 +1,22 @@
+{
+  "name": "vscode-periwinkle",
+  "displayName": "vscode-periwinkle",
+  "description": "",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "periwinkle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/periwinkle-color-theme.json"
+      }
+    ]
+  }
+}
