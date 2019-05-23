@@ -1,14 +1,12 @@
 # periwinkle
 
-> VS Code color theme based on [fairyfloss](https://github.com/sailorhg/fairyfloss)
+![Editor screenshot](https://user-images.githubusercontent.com/38357771/58229551-e3f02800-7ce6-11e9-8e7f-faaed8497f5b.png)
 
-## development
+> VS Code color theme for happy days
+
+A colorful, straightforward theme based on the [fairyfloss](https://github.com/sailorhg/fairyfloss) colors.
+
+## Development
 
 * Press `F5` to open a new window with the extension loaded
-* Open `File > Preferences > Color Themes` and select this color theme
 * Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Inspect TM Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac)
-
-## installation
-
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
