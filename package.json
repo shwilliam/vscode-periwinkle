@@ -1,10 +1,10 @@
 {
   "name": "vscode-periwinkle",
-  "displayName": "vscode-periwinkle",
+  "displayName": "periwinkle",
   "author": "William L <w-lindvall@outlook.com>",
   "publisher": "shwilliam",
   "description": "VS Code color theme based on fairyfloss",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "engines": {
     "vscode": "^1.33.0"
